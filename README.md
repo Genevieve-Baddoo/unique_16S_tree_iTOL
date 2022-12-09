@@ -14,7 +14,7 @@ Combined, these sequences represent the diversity of bacterial species from the 
 
 
 ## Software 
-* Unix
+
 * Python3
 * Geneious Prime
 * FastTree
