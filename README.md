@@ -12,9 +12,6 @@ These unique 16S rRNA sequences contain 123 species and 61 genera. The sequences
 
 
 ## Software 
-Software Tools Required
-=========
-
 * Unix
 * Python3
 * Geneious Prime
